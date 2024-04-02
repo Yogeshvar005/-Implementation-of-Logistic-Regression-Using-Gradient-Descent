@@ -47,13 +47,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program:
 ```
-
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: Yogeshvar M
 RegisterNumber:  212222230180
-
 ```
-```python
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import optimize
